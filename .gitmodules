@@ -4,3 +4,6 @@
 [submodule "subs"]
 	path = subs
 	url = https://rndtfs.intranet.dow.com/dow/IR/_git/MEC_Kicad_Subschematics
+[submodule "subs2"]
+	path = subs2
+	url = https://rndtfs.intranet.dow.com/dow/IR/MEC/_git/MEC_Kicad_Subschematics
