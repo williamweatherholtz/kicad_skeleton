@@ -1,6 +1,6 @@
+echo off
 set arg1=%1
 git submodule update --init --recursive --merge
-git remote set-url origin %1
 git pull --allow-unrelated-histories
 git add -A
 git commit -m "initialization"
